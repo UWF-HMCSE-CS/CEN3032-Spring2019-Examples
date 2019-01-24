@@ -1,0 +1,6 @@
+C:\Users\beddy\Repos\CEN3032-Spring2019-Examples\UnitTesting\ServiceInterfaces\bin\Debug\ServiceInterfaces.dll
+C:\Users\beddy\Repos\CEN3032-Spring2019-Examples\UnitTesting\ServiceInterfaces\bin\Debug\ServiceInterfaces.pdb
+C:\Users\beddy\Repos\CEN3032-Spring2019-Examples\UnitTesting\ServiceInterfaces\obj\Debug\ServiceInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\beddy\Repos\CEN3032-Spring2019-Examples\UnitTesting\ServiceInterfaces\obj\Debug\ServiceInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\beddy\Repos\CEN3032-Spring2019-Examples\UnitTesting\ServiceInterfaces\obj\Debug\ServiceInterfaces.dll
+C:\Users\beddy\Repos\CEN3032-Spring2019-Examples\UnitTesting\ServiceInterfaces\obj\Debug\ServiceInterfaces.pdb

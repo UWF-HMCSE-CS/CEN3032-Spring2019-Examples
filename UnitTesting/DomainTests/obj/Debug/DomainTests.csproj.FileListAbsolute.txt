@@ -1,0 +1,7 @@
+C:\Users\beddy\Repos\CEN3032-Spring2019-Examples\UnitTesting\DomainTests\bin\Debug\DomainTests.dll
+C:\Users\beddy\Repos\CEN3032-Spring2019-Examples\UnitTesting\DomainTests\bin\Debug\DomainTests.pdb
+C:\Users\beddy\Repos\CEN3032-Spring2019-Examples\UnitTesting\DomainTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\beddy\Repos\CEN3032-Spring2019-Examples\UnitTesting\DomainTests\obj\Debug\DomainTests.csprojResolveAssemblyReference.cache
+C:\Users\beddy\Repos\CEN3032-Spring2019-Examples\UnitTesting\DomainTests\obj\Debug\DomainTests.csproj.CoreCompileInputs.cache
+C:\Users\beddy\Repos\CEN3032-Spring2019-Examples\UnitTesting\DomainTests\obj\Debug\DomainTests.dll
+C:\Users\beddy\Repos\CEN3032-Spring2019-Examples\UnitTesting\DomainTests\obj\Debug\DomainTests.pdb
