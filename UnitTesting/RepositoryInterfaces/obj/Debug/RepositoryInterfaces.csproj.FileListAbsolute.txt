@@ -1,0 +1,8 @@
+C:\Users\beddy\Repos\CEN3032-Spring2019-Examples\UnitTesting\RepositoryInterfaces\bin\Debug\RepositoryInterfaces.dll
+C:\Users\beddy\Repos\CEN3032-Spring2019-Examples\UnitTesting\RepositoryInterfaces\bin\Debug\RepositoryInterfaces.pdb
+C:\Users\beddy\Repos\CEN3032-Spring2019-Examples\UnitTesting\RepositoryInterfaces\bin\Debug\Domain.dll
+C:\Users\beddy\Repos\CEN3032-Spring2019-Examples\UnitTesting\RepositoryInterfaces\bin\Debug\Domain.pdb
+C:\Users\beddy\Repos\CEN3032-Spring2019-Examples\UnitTesting\RepositoryInterfaces\obj\Debug\RepositoryInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\beddy\Repos\CEN3032-Spring2019-Examples\UnitTesting\RepositoryInterfaces\obj\Debug\RepositoryInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\beddy\Repos\CEN3032-Spring2019-Examples\UnitTesting\RepositoryInterfaces\obj\Debug\RepositoryInterfaces.dll
+C:\Users\beddy\Repos\CEN3032-Spring2019-Examples\UnitTesting\RepositoryInterfaces\obj\Debug\RepositoryInterfaces.pdb
